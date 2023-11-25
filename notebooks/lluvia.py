@@ -41,4 +41,3 @@ df_final = pd.concat(dataframes)
 nombre_salida = "datos_concatenados_procesados.csv"
 df_final.to_csv(os.path.join(ruta_directorio, nombre_salida), index=False)
 
-print("Proceso completado!")
