@@ -20,4 +20,4 @@ Este proyecto se enfoca en el análisis comparativo de varios algoritmos de Deep
 - `dataset.ipynb`: Notebook para la creación del dataset completo.
 
 ## Instalación
-Para instalar las dependencias, ejecuta:
+Para instalar las dependencias, ejecuta: pip install -r requirements.txt
